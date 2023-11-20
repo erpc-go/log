@@ -2,8 +2,6 @@
 
 erpc 的日志库
 
-
-使用
 ## 直接使用
 ```
 log.Debug("hello %s", "world")
